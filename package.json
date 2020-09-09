@@ -1,0 +1,19 @@
+{
+  "name": "github-login",
+  "version": "1.0.0",
+  "description": "Github Login Page Clone with TailwindCSS",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwind build styles.css -o css/styles.css"
+  },
+  "keywords": [
+    "github",
+    "inbox",
+    "ui"
+  ],
+  "author": "@supacode",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^1.7.3"
+  }
+}
